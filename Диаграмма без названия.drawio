@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-13T12:00:42.163Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="r7wNzkK1OaOlh727-Q-j" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-13T12:09:51.483Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="BsDvU_Ji0b3DnXGCi3mr" version="21.6.8" type="github">
   <diagram name="Страница — 1" id="esuZyuupJLuho4oqFtwd">
-    <mxGraphModel dx="3190" dy="1263" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#000000" math="0" shadow="0">
+    <mxGraphModel dx="3987" dy="1684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#000000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -506,31 +506,31 @@
         <mxCell id="a9ZtihEkZwW9otxZTu7b-154" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a9ZtihEkZwW9otxZTu7b-146" target="a9ZtihEkZwW9otxZTu7b-142">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a9ZtihEkZwW9otxZTu7b-146" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;direction=south;fillColor=#000066;strokeColor=#3333FF;" vertex="1" parent="1">
+        <mxCell id="a9ZtihEkZwW9otxZTu7b-146" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;direction=south;fillColor=#006666;strokeColor=#00FFFF;" vertex="1" parent="1">
           <mxGeometry x="931.5" y="2240" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="a9ZtihEkZwW9otxZTu7b-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#3333FF;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1">
+        <mxCell id="a9ZtihEkZwW9otxZTu7b-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#00FFFF;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="961.5" y="2254.75" as="sourcePoint" />
             <mxPoint x="991.5" y="2254.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a9ZtihEkZwW9otxZTu7b-149" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;strokeColor=#3333FF;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="a9ZtihEkZwW9otxZTu7b-139" target="a9ZtihEkZwW9otxZTu7b-146">
+        <mxCell id="a9ZtihEkZwW9otxZTu7b-149" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;strokeColor=#00FFFF;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="a9ZtihEkZwW9otxZTu7b-139" target="a9ZtihEkZwW9otxZTu7b-146">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="900" y="2270" as="sourcePoint" />
             <mxPoint x="950" y="2220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a9ZtihEkZwW9otxZTu7b-155" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;direction=south;fillColor=#000066;strokeColor=#3333FF;" vertex="1" parent="1">
+        <mxCell id="a9ZtihEkZwW9otxZTu7b-155" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;direction=south;fillColor=#006666;strokeColor=#00FFFF;" vertex="1" parent="1">
           <mxGeometry x="990.62" y="2240" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="a9ZtihEkZwW9otxZTu7b-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#3333FF;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1">
+        <mxCell id="a9ZtihEkZwW9otxZTu7b-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#00FFFF;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1020.6199999999999" y="2254.75" as="sourcePoint" />
             <mxPoint x="1050.62" y="2254.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a9ZtihEkZwW9otxZTu7b-157" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;direction=south;fillColor=#000066;strokeColor=#3333FF;" vertex="1" parent="1">
+        <mxCell id="a9ZtihEkZwW9otxZTu7b-157" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;direction=south;fillColor=#006666;strokeColor=#00FFFF;" vertex="1" parent="1">
           <mxGeometry x="1050" y="2240" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a9ZtihEkZwW9otxZTu7b-158" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;direction=south;" vertex="1" parent="1">
@@ -560,13 +560,13 @@
             <mxPoint x="1242.7600000000002" y="2204.92" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a9ZtihEkZwW9otxZTu7b-164" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;strokeColor=#3333FF;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="a9ZtihEkZwW9otxZTu7b-157" target="a9ZtihEkZwW9otxZTu7b-158">
+        <mxCell id="a9ZtihEkZwW9otxZTu7b-164" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;strokeColor=#00FFFF;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="a9ZtihEkZwW9otxZTu7b-157" target="a9ZtihEkZwW9otxZTu7b-158">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1080" y="2260" as="sourcePoint" />
             <mxPoint x="1105" y="2288" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a9ZtihEkZwW9otxZTu7b-165" value="&lt;font color=&quot;#3333ff&quot;&gt;shell&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontFamily=Comic Sans MS;fontSize=30;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="a9ZtihEkZwW9otxZTu7b-165" value="&lt;font&gt;shell&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#00FFFF;fontFamily=Comic Sans MS;fontSize=30;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="840" y="2240" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a9ZtihEkZwW9otxZTu7b-166" value="ui" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#33FF33;fontFamily=Comic Sans MS;fontSize=30;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
@@ -602,11 +602,14 @@
             <mxPoint x="1282" y="2490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a9ZtihEkZwW9otxZTu7b-173" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 30px; background-color: rgb(0, 0, 0);&quot; face=&quot;Comic Sans MS&quot;&gt;&amp;nbsp; FEATURES&amp;nbsp;&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="a9ZtihEkZwW9otxZTu7b-173" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 30px; background-color: rgb(0, 0, 0);&quot; face=&quot;Comic Sans MS&quot;&gt;&amp;nbsp; SUMMARY&amp;nbsp;&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="202" y="2461" width="220" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="a9ZtihEkZwW9otxZTu7b-175" value="PROS:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Runtime dependencies&lt;/li&gt;&lt;li&gt;Полная изоляция кода&lt;/li&gt;&lt;li&gt;При отпадении сервиса - падает НЕ все приложение&lt;/li&gt;&lt;li&gt;Можно использовать разные технологии на разных МФ&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff3333&quot;&gt;CONS:&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(255, 51, 51); background-color: initial;&quot;&gt;TS не передается в Runtime&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(255, 51, 51); background-color: initial;&quot;&gt;Нужно следить за версионированием&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(255, 51, 51); background-color: initial;&quot;&gt;Потенциальное дублирование кода&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontColor=#FF33FF;fontFamily=Comic Sans MS;fontSize=30;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="a9ZtihEkZwW9otxZTu7b-175" value="PROS:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Runtime dependencies&lt;/li&gt;&lt;li&gt;Полная изоляция кода&lt;/li&gt;&lt;li&gt;При отпадении сервиса - падает НЕ все приложение&lt;/li&gt;&lt;li&gt;Можно использовать разные технологии на разных МФ&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff3333&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff3333&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff3333&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff3333&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff3333&quot;&gt;CONS:&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(255, 51, 51); background-color: initial;&quot;&gt;TS не передается в Runtime&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(255, 51, 51); background-color: initial;&quot;&gt;Нужно следить за версионированием&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(255, 51, 51); background-color: initial;&quot;&gt;Потенциальное дублирование кода&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(255, 51, 51); background-color: initial;&quot;&gt;Не все разработчики смогут поднять новый МФ, если понадобится (относительно сложный конфиг)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(255, 51, 51); background-color: initial;&quot;&gt;Чтобы реализовать более стабильную работу приложения - надо размещать МФ на отдельные серверы&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontColor=#FF33FF;fontFamily=Comic Sans MS;fontSize=30;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="-564.76" y="2551" width="884.76" height="619" as="geometry" />
+        </mxCell>
+        <mxCell id="a9ZtihEkZwW9otxZTu7b-176" value="&lt;font color=&quot;#00ffff&quot;&gt;&amp;nbsp;PROS:&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(0, 255, 255); background-color: initial;&quot;&gt;Build time dependencies -&amp;gt; easy TS share&lt;/span&gt;&lt;/li&gt;&lt;li&gt;Не надо следить за версионированием, обновление всех зависимостей проекта делается 1 командой&lt;/li&gt;&lt;li&gt;Переиспользование кода&lt;/li&gt;&lt;li&gt;Легко масштабировать (простой конфиг)&lt;/li&gt;&lt;li&gt;Довольно легко при необходимости подключить Runtime dependencies&lt;/li&gt;&lt;li&gt;Есть возможность совмещать Runtime и Build time&lt;/li&gt;&lt;/ul&gt;&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff3333&quot;&gt;CONS:&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;ul&gt;&lt;li&gt;Не умеет подхватывать изменения в релизе налету, надо каждый раз прогонять все приложение через CI/CD&lt;/li&gt;&lt;li&gt;Один гит репозиторий с кучей веток - нужен более осмысленный подход к гиту, к коммитам. Возможно мердж реквесты и ревью.&lt;/li&gt;&lt;li&gt;Условная изоляция кода&lt;/li&gt;&lt;/ul&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontColor=#FF33FF;fontFamily=Comic Sans MS;fontSize=30;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="410" y="2551" width="884.76" height="619" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
