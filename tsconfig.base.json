@@ -17,7 +17,6 @@
     "paths": {
       "@mf/decrement": ["apps/decrement/src/index.ts"],
       "@mf/increment": ["apps/increment/src/index.ts"],
-      "@org/shared/store": ["libs/shared/store/src/index.ts"],
       "@shared/store": ["libs/shared/store/src/index.ts"]
     }
   },
